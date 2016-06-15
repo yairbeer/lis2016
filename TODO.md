@@ -1,9 +1,9 @@
 ## For prelimanary submission
-1. Hierarchical machine learning. Building + Floor
+1. Hierarchical machine learning - ~~Building~~, Floor
 2. GPS positioning. for route 0
 3. WiFi positioning. for route 0
 4. Hybrid GPS and WiFi POC. Basic choosing criterion and best case.
-5. Create winning function.
+5. Create goal function.
 6. Smoothing.
 7. Submission document.
 
