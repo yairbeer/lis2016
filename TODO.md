@@ -1,5 +1,5 @@
 ## For prelimanary submission
-1. Hierarchical machine learning - ~~Building~~, Floor
+1. ~~Hierarchical machine learning - Building, Floor
 2. GPS positioning. for route 0
 3. WiFi positioning. for route 0
 4. Hybrid GPS and WiFi POC. Basic choosing criterion and best case.
