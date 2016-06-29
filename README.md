@@ -9,6 +9,6 @@
 
 ## For submission
 1. Automate for steps for the hierarchical machine learning.
-2. Create Interpolation rule every 0.5 second. 
+2. ~~Create Interpolation rule every 0.5 second. 
 3. Smoothing.
 4. Create optimization for decision rule.
