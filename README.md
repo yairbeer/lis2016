@@ -12,5 +12,5 @@
 2. ~~Create Interpolation rule every 0.5 second. 
 3. ~~Smoothing.
 4. Implement floor dummy variables
-5. Hybrid GPS and WiFi
+5. ~~Hybrid GPS and WiFi
 6. Create optimization for decision rule.
